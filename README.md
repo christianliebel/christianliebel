@@ -10,5 +10,5 @@
 - 📫 How to reach me: [@christianliebel](https://twitter.com/christianliebel) & https://christianliebel.com/about-me/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’ve [completed the Pokédex](https://github.com/pret/pokered/blob/master/engine/events/diploma.asm#L108-L112) in Pokémon Red.
-- 🌏 Countries visited: 🇦🇹 🇧🇪 🇨🇦 🇨🇭 🇨🇿 🇩🇪 🇪🇪 🇪🇸 🇫🇮 🇫🇷 🇮🇪 🇮🇹 🇯🇵 🇱🇮 🇱🇹 🇱🇻 🇳🇱 🇵🇱 🇵🇹 🇬🇧 🇺🇸 (CA, D.C., DE, MD, NJ, NY, NV, OR, PA, VA, WA) 🇷🇴 🇻🇦 (23/195 ≈ 11.8%)
+- 🌏 Countries visited: 🇦🇹 🇧🇪 🇨🇦 🇨🇭 🇨🇿 🇩🇪 🇪🇪 🇪🇸 🇫🇮 🇫🇷 🇮🇪 🇮🇹 🇯🇵 🇱🇮 🇱🇹 🇱🇻 🇳🇱 🇵🇱 🇵🇹 🇸🇮 🇬🇧 🇺🇸 (CA, D.C., DE, MD, NJ, NY, NV, OR, PA, VA, WA) 🇷🇴 🇻🇦 (24/195 ≈ 12.3%)
 - 📍 I’d love to extend this list. I’ve spoken at [many national and international conferences](https://christianliebel.com/talks/), and if you need experienced speakers for your conference, feel free to reach out to me!
